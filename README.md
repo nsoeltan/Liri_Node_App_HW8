@@ -1,0 +1,2 @@
+# Liri_Node_App_HW8
+Creating a LIRI bot application, similar to iPhone's SIRI. While SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and returns back data. LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies. LAstly, Liri will take a command line argument from a text file and search for the song specified in the txt file on Spotify.
